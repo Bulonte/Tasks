@@ -13,19 +13,20 @@
 
 ## html 链接
 
-![image-20231116221615626](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116221615626.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/5a2f3bd7-af27-42b2-9514-069dfdf80127)
 
-```
-HTML 链接是通过 <a> 标签进行定义的。
-```
+HTML 链接是通过 `<a>` 标签进行定义的。
+![image](https://github.com/Bulonte/Tasks/assets/149052453/feb702fa-27a0-4dbf-ba34-402183eba164)
 
-![image-20231114165005185](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231114165005185.png)
+
+
+
 
 
 
 在 href 属性中指定链接的地址
 
-![image-20231116222337841](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116222337841.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/4c8e32c9-c5c4-4047-8396-66998a06ee2f)
 
 
 
@@ -43,7 +44,8 @@ HTML 链接是通过 <a> 标签进行定义的。
 hr 元素可用于分隔内容。
 ```
 
-![image-20231116180444392](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116180444392.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/7a2fbb7a-ead3-4fe7-bebb-6e41da605ed2)
+
 
 ## html注释
 
@@ -51,8 +53,7 @@ hr 元素可用于分隔内容。
 
 注释是这样写的：
 
-![image-20231114170311204](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231114170311204.png)
-
+![image](https://github.com/Bulonte/Tasks/assets/149052453/8e947980-3240-4378-8d29-bf1aa3cc7058)
 
 
 ## html折行
@@ -61,7 +62,7 @@ hr 元素可用于分隔内容。
 如果您希望在不产生一个新段落的情况下进行换行（新行），请使用 <br /> 标签：
 ```
 
-![image-20231114223913386](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231114223913386.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/5dc55f17-fd0f-45fc-8b5b-b6abedf52eaf)
 
 
 
@@ -82,31 +83,36 @@ background-color 属性为元素定义了背景颜色：
 
 效果
 
-![image-20231116165110210](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116165110210.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/a6f083a5-17ed-42a4-b04a-471770be2af3)
+
 
 
 
 ## html图片
 
-![image-20231116181210898](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116181210898.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/3a9d68ae-cf2d-4d34-9bee-59b7e9443523)
 
-![image-20231116181714331](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116181714331.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/c723b9ce-2570-4fe7-a7e8-226b24e0c04e)
 
-![image-20231116181759698](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116181759698.png)
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/5a58fa47-375b-4a98-a1f2-80a29dbbf870)
+
 
 ！！！**图片文件和html文件必须在同一个文件夹内**
 
 **如果不在同一个文件夹内，则需要用图片文件的绝对地址，使得代码可以调用该图片**
 
-![image-20231116215943697](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231116215943697.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/428f2b8d-ef41-4b47-b217-0d70055cb91d)
+
 
 
 
 ## html文本
 
-![image-20231117135403080](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117135403080.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/919c58a5-e18c-4ddb-9e00-4b58218bafc7)
 
-![image-20231117140001429](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117140001429.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/d28967f0-3ed8-4881-8966-9f6b915c4044)
+
 
  
 
@@ -116,21 +122,27 @@ background-color 属性为元素定义了背景颜色：
 
 ### 有序列表
 
-![image-20231117141247886](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117141247886.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/e9c7c9ce-a4fc-4774-8fae-6c65e945a938)
 
-![image-20231117141946864](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117141946864.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/81e98ba3-b730-4147-b61d-40118e3f4740)
 
-![image-20231117142109768](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117142109768.png)
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/ff73e3b2-1a7b-44bd-af2a-26fa37e7a321)
+
 
 ### 无序列表
 
-![image-20231117142728189](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117142728189.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/037316bc-fabd-4083-8c51-cc73ab97ce0d)
 
-![image-20231117142808442](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117142808442.png)
 
-![image-20231117143140105](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231117143140105.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/1c740238-f8b8-48c9-bbdc-cdcdebf6fce4)
 
-![image-20231118141633425](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118141633425.png)
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/d89c65dc-775f-49c1-8463-3de21f3eeb93)
+
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/1467a248-d63c-4458-b592-fb0df46afeb0)
+
 
 
 
@@ -140,15 +152,15 @@ background-color 属性为元素定义了背景颜色：
 
 ### 表格基础知识
 
-![image-20231118142651998](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118142651998.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/886630c1-e075-411c-88f8-b5d89f1f0b4b)
 
-![image-20231118142433300](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118142433300.png)
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/e01186ed-f97b-4789-b439-586f85c7e341)
+
 
 ！！！**td和tr标签必须在table标签内部使用**
 
-![image-20231118142758102](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118142758102.png)
-
-![image-20231118143227782](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118143227782.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/f26a0693-fbe5-4ebf-8aca-acb35d5aaab9)
 
 ### 表格的合并
 
@@ -156,7 +168,8 @@ background-color 属性为元素定义了背景颜色：
 
 竖直合并：rowspan 
 
-![image-20231118165938878](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118165938878.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/e80a7bb6-613c-46c5-8c1e-2a2925f1c96d)
+
 
 
 
@@ -166,15 +179,18 @@ background-color 属性为元素定义了背景颜色：
 
 ### 表单是什么？
 
-​	![image-20231118170403471](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118170403471.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/ed619ec5-0e19-4c8b-b0a7-e2fce3d19592)
+
 
 ### 表单的属性
 
-![image-20231118170432780](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118170432780.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/41213100-8641-4105-b134-5edb975cb675)
+
 
 ### 表单元素
 
-![image-20231118171103801](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118171103801.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/7a5241f2-f63c-4649-a9c6-763771a27bf3)
+
 
 **表单标签：form**
 
@@ -182,26 +198,32 @@ background-color 属性为元素定义了背景颜色：
 
 **表单按钮：button**
 
-![image-20231118171712001](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118171712001.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/ba707479-9aec-41c6-ba1d-284b20ba77f9)
 
-![image-20231118172154114](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118172154114.png)
 
-![image-20231118172331698](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118172331698.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/a9c9a3db-5db2-4f21-b203-9c86ada05b02)
 
-![image-20231118172735353](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231118172735353.png)
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/b65bac80-f022-46a7-8ee4-013caa1391b1)
+
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/d1164c42-ac88-4eab-aa41-081826051e7d)
+
 
 
 
 ## 块级元素与内联元素的区别
 
-![image-20231119204023067](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231119204023067.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/eb43d30b-967a-43ae-b4cb-d4ac48a2e914)
 
-![image-20231119204046658](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231119204046658.png)
+
+![image](https://github.com/Bulonte/Tasks/assets/149052453/c3c01cc2-6572-49cb-9033-7d35265cde56)
 
 
 
 ## H5新标签
 
-![image-20231119205637956](C:\Users\钟佑安\AppData\Roaming\Typora\typora-user-images\image-20231119205637956.png)
+![image](https://github.com/Bulonte/Tasks/assets/149052453/ab8ac202-f035-492c-96ba-fb1fba8314d3)
+
 
 ！！！**2014年之前的浏览器不支持H5新标签**
