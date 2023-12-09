@@ -27,3 +27,5 @@
 
 ## 4.第四阶段（难！太难了！）
 [学习总结](https://githubfast.com/Bulonte/Game/blob/main/%E9%98%B6%E6%AE%B5%E5%9B%9B%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
+
+[Ruby Adventure](https://githubfast.com/Bulonte/Game/tree/main/Rubyadventure)
